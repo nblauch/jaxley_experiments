@@ -90,4 +90,3 @@ dependencies:
       - typing-extensions==4.12.2
       - tzdata==2024.2
       - wcwidth==0.2.13
-prefix: /n/alvarez_lab_tier1/Users/nblauch/conda_envs/jaxley
